@@ -1,0 +1,56 @@
+REQUIREMENT ANALYSIS
+
+Project Title:
+Student Hub Portal
+
+Project Description:
+Student Hub Portal is a simple web-based application developed using HTML. It provides students with easy access to different academic pages such as Login, Dashboard, Courses, Attendance, Assignments, Results, Notices, Profile, and Contact.
+
+Functional Requirements:
+• Home Page
+• Login Page
+• Dashboard Page
+• Courses Page
+• Attendance Page
+• Assignments Page
+• Results Page
+• Notice Page
+• Profile Page
+• Contact Page
+• Navigation Links
+• Student Hub Image
+
+Non-Functional Requirements:
+• User-friendly interface
+• Simple and clean design
+• Easy navigation
+• Fast loading pages
+• Compatible with modern web browsers
+
+Software Requirements:
+• HTML5
+• Visual Studio Code
+• Google Chrome / Microsoft Edge
+
+Hardware Requirements:
+• Computer or Laptop
+• Keyboard and Mouse
+• Minimum 4 GB RAM
+
+Input:
+• User clicks on navigation links to access different pages.
+
+Output:
+• Displays the selected page based on the user's choice.
+
+Modules:
+• Home
+• Login
+• Dashboard
+• Courses
+• Attendance
+• Assignments
+• Results
+• Notice
+• Profile
+• Contact
