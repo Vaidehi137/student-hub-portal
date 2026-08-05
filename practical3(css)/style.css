@@ -1,1 +1,150 @@
+body{
+    background-color:  #eaf6ff;
+    font-family: Arial;
+    text-align: center;
+}
 
+h1{
+    color: black;
+    margin: 20px;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
+
+nav{
+    margin: 20px;
+}
+
+a{
+    color: blue;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 10px;
+}
+
+a:hover{
+    color: red;
+}
+
+footer{
+    margin-top: 30px;
+    font-size: 18px;
+}
+
+
+/*dashboard  */
+h2{
+    color: darkblue;
+}
+
+table{
+    border-collapse: collapse;
+    margin: auto;
+    background-color: white;
+}
+
+th{
+    background-color:whitesmoke;
+}
+
+th,td{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+fieldset{
+    width: 700px;
+    margin: auto;
+    background-color: white;
+}
+
+ul,ol{
+    text-align: left;
+    display: inline-block;
+}
+
+
+/* Login Page */
+
+fieldset{
+    background-color: white;
+    width: 450px;
+    margin: auto;
+}
+
+h1{
+    color: darkblue;
+}
+
+h2{
+    color: black;
+    font-size: 22px;
+}
+
+p{
+    font-size: 18px;
+}
+
+input[type="text"]{
+    width: 250px;
+    height: 30px;
+}
+
+input[type="password"]{
+    width: 250px;
+    height: 30px;
+}
+
+input[type="submit"]{
+    width: 120px;
+    height: 40px;
+    background-color: lightblue;
+    color: black;
+    border: 1px solid black;
+    font-size: 18px;
+}
+
+input[type="submit"]:hover{
+    background-color: skyblue;
+}
+
+footer{
+    margin-top: 20px;
+}
+
+img{
+    width: 400px;
+    height: auto;
+}
+
+
+/* Courses Page */
+
+h3{
+    color: darkblue;
+}
+
+/* Attendance Page */
+
+h3{
+    color: darkblue;
+}
+
+p{
+    font-size: 18px;
+}
+
+/* Assignments Page */
+/* No Extra CSS Required */
+
+/* result page */
+/* no extra css required*/
+
+/* notice page*/
+/* no extra css required*/
+
+/*contact page*/
+/* no extra css required*/
