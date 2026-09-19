@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Vaidehi Gangani",
+        "enrollment": "25DCE028",
+        "course": "Computer Engineering",
+        "semester": 3,
+        "email": "vaidehi@example.com",
+        "mobile": "+91 xxxxxxxxx"
+    },
+    {
+        "name": "Rahul Patel",
+        "enrollment": "25DCE029",
+        "course": "Computer Engineering",
+        "semester": 3,
+        "email": "rahul@example.com",
+        "mobile": "+91 9876543210"
+    },
+    {
+        "name": "Krisha Shah",
+        "enrollment": "25DCE030",
+        "course": "Computer Engineering",
+        "semester": 3,
+        "email": "krisha@example.com",
+        "mobile": "+91 9876501234"
+    },
+    {
+        "name": "Yash Mehta",
+        "enrollment": "25DCE031",
+        "course": "Computer Engineering",
+        "semester": 3,
+        "email": "yash@example.com",
+        "mobile": "+91 9876512345"
+    }
+]
